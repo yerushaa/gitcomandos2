@@ -1,0 +1,1 @@
+window.alert('Bienvenidos a el mundo de gatitos')
